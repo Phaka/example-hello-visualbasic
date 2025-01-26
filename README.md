@@ -15,7 +15,7 @@ Install .NET SDK from https://dotnet.microsoft.com/download
 ```bash
 vbc Main.vb
 Main.exe  # Windows
-mono Main.exe  # macOS/Linux
+./Main  # macOS/Linux
 ```
 
 ## Code Explanation
